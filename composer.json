@@ -1,0 +1,15 @@
+{
+    "name": "upemor/pro",
+    "authors": [
+        {
+            "name": "German Rodriguez",
+            "email": "john@example.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    	"classmap": [
+    		"src/"
+    	]
+    }
+}
